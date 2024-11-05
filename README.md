@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains some of the scripts that i use on my day-to-day life as a software engineer. I will add more scripts as i write them for my projects, adding context and documentation if needed.
+This repository contains some of the scripts that i use on my day-to-day life as a software engineer. I'll try my best to use only standard python libraries on my scripts, so you don't need additional dependencies. I will add more scripts as i write them for my projects, adding context and documentation if needed.
 
 ## Requirements
 
