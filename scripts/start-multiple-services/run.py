@@ -1,7 +1,7 @@
 import subprocess
 
 def start_service_in_background(command):
-  """Starts a service in the background (using java as a default example), capturing its process ID.
+  """This is a simple Python script that starts two or more services in the background (using two java applications as a default example), capturing its process ID.
 
   Args:
     command: The command to execute.
@@ -19,7 +19,8 @@ def start_service_in_background(command):
 
 if __name__ == "__main__":
   service_commands = [
-        "java -jar service1.jar",
+        # edit the file names to match your services
+        "java -jar service1.jar", 
         "java -jar service2.jar",
         # add more services here!
   ]
